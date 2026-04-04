@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I am the research director at the [Quantum-Safe Migration Center (QSMC)](https://www.qsmc.org/) which is part of the Taiwanese PQC start-up [Chelpis Quantum Tech](https://www.chelpis.com/) based in Taipei, Taiwan. I'm also an Adjunct Assistant Professor at [National Taiwan University](https://www.ntu.edu.tw/).
+I am a Cryptography and Security Software Engineer at [zeroRISC](https://zerorisc.com), Taipei, Taiwan.
+I'm also an Adjunct Assistant Professor at [National Taiwan University](https://www.ntu.edu.tw/).
 
+Before that, I was at [Chelpis Quantum Tech](https://www.chelpis.com/), Taipei, Taiwan.
 Before that, I was a postdoc at the [Institute of Information Science](https://www.iis.sinica.edu.tw/) of Academia Sinica, Taipei, Taiwan.<br />
 Before that, I was at the [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/), Bochum, Germany. <br />
 Before that, I was at the [Digital Security group](https://www.ru.nl/ds/) at Radboud University, Nijmegen, The Netherlands. <br />
